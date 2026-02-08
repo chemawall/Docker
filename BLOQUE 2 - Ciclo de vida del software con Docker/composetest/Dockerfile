@@ -1,4 +1,4 @@
-FROM python:3.7-alpine
+FROM python:3.14.3-alpine
 
 # Creación de un directorio de trabajo en Docker
 WORKDIR /code
